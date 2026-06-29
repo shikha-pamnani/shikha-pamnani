@@ -1,6 +1,6 @@
 # Hi, I'm Shikha Pamnani 👋
 
-**BI Strategy Lead · Payments & Fintech · Financial Inclusion · AI/Analytics**
+**Strategy and Insights Manager · Project Owner · Payments & Fintech · Financial Inclusion · AI/Analytics**
 
 I build data products and analytics tools that translate complex data into decisions — across digital payments, fraud detection, public safety, and emerging markets.
 
@@ -9,16 +9,16 @@ I build data products and analytics tools that translate complex data into decis
 ## 🚀 What I Do
 
 - **Payments & Fintech Analytics** — 10+ years working across digital payments ecosystems — NPCI, India Post Payments Bank, AML/fraud detection, and financial inclusion programs
-- **BI & Data Products** — Power BI, Tableau, SQL, Python, PySpark — from executive dashboards to investigator-facing analytics tools
-- **AI & Vibe Coding** — Claude, Lovable, Replit — building AI-powered tools and no-code applications
-- **Strategic Insights** — consumer research, GTM strategy, stakeholder presentations for C-suite and government audiences
+- **BI & Data Products** — Power BI, Tableau, SQL, Python, Microsoft Excel Advanvced — from executive dashboards to investigator-facing analytics tools
+- **AI & Vibe Coding** — Claude (Chat, Co-work, Code), Lovable, Replit — building AI-powered tools, workflow automation and no-code applications
+- **Strategic Insights** — Qualitative and Quantitative analysis,Consumer research, GTM strategy, stakeholder presentations for C-suite and government audiences
 
 ---
 
 ## 🔬 Featured Projects
 
 ### 🏦 [Tazama Alert Navigator & Rule Trigger Discovery](https://github.com/shikha-pamnani/Tazama-X-Delta-Investigative-Visualization---Python-Project)
-**Delta Analytics Fellowship · Linux Foundation · Bill & Melinda Gates Foundation · 2026**
+**Delta Analytics Fellowship · Linux Foundation · Gates Foundation · 2026**
 
 An investigator-facing analytics tool built on an open-source AML/fraud detection platform deployed by financial service providers across South African markets.
 
