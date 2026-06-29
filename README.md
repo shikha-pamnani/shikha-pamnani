@@ -83,4 +83,4 @@ AI-generated documentation for the Tazama open-source ecosystem using Claude and
 
 ---
 
-*📍 Milpitas, California · Open to senior analytics, insights, and product strategy roles in payments and fintech*
+*📍 Milpitas, California · Open to strategy & insights, and product operations roles
