@@ -42,7 +42,7 @@ AI-generated documentation for the Tazama open-source ecosystem using Claude and
 | Category | Tools |
 |----------|-------|
 | **BI & Visualization** | Power BI · Tableau · Plotly · Looker Studio |
-| **Data & Analytics** | SQL · Python · PySpark · Apache Hudi · DAX · Power Query |
+| **Data & Analytics** | SQL · Python · DAX · Power Query |
 | **AI & No-Code** | Claude · Lovable · Replit · Claude Code · Cowork |
 | **Project Tools** | GitHub · JIRA · SharePoint · Power Automate |
 | **Research** | Consumer Survey Design · SurveyMonkey · Mixed Methods Research |
