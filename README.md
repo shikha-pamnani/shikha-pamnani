@@ -83,4 +83,4 @@ AI-generated documentation for the Tazama open-source ecosystem using Claude and
 
 ---
 
-*📍 Milpitas, California · Open to strategy & insights, and product operations roles
+*📍 Milpitas, California · Open to Strategy & Insights, Project Owner and Program Manager Roles.
