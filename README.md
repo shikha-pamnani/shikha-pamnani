@@ -52,7 +52,7 @@ AI-generated documentation for the Tazama open-source ecosystem using Claude and
 ## 💼 Experience Highlights
 
 - **Delta Analytics Fellowship** — Project Owner & BI Strategy Lead — Tazama (AML/Fraud Detection) · 2026
-- **County of Santa Clara** — BI Analyst (Insights & Analytics) — Public Safety Analytics · 2023–Present
+- **Confidential** — BI Analyst (Insights & Analytics) — Public Safety Analytics · 2024–Present
 - **India Post Payments Bank** — Product Manager (GTM, Operations & Analytics) · 2019–2023
 - **MicroSave Consulting** — Manager, Market Intelligence & Strategy · 2018–2019
 - **NPCI** — Product Portfolio Manager, Payments · 2016–2017
