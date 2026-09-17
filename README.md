@@ -1,6 +1,6 @@
 # Hi, I'm Shikha Pamnani 👋
 
-**Strategy and Insights Manager · Project Owner · Payments & Fintech · Financial Inclusion · AI/Analytics**
+**Strategy and Insights Manager | Product Operations | Project Owner | Payments & Fintech | Financial Inclusion | AI/Analytics**
 
 I build data products and analytics tools that translate complex data into decisions — across digital payments, fraud detection, public safety, and emerging markets.
 
@@ -83,4 +83,4 @@ AI-generated documentation for the Tazama open-source ecosystem using Claude and
 
 ---
 
-*📍 Milpitas, California · Open to Strategy & Insights, Project Owner and Program Manager Roles.
+*📍 Milpitas, California · Open to Strategy & Insights, Product Operations, Project Owner and Program Manager Roles.
